@@ -121,37 +121,6 @@ python -m http.server 8000
 ```
 Open your browser and visit: `http://localhost:8000/`
 
----
-
-## 6. GitHub Pages Deployment Instructions
-
-When ready to publish to GitHub Pages:
-
-1. **Initialize Git & Commit:**
-   ```bash
-   git init
-   git add .
-   git commit -m "feat: initial release of MingalarMate v1.0 website"
-   ```
-
-2. **Push to GitHub:**
-   ```bash
-   git remote add origin https://github.com/<your-username>/<your-repo-name>.git
-   git branch -M main
-   git push -u origin main
-   ```
-
-3. **Enable GitHub Pages:**
-   * Go to your repository on GitHub.
-   * Navigate to **Settings** → **Pages** (under the "Code and automation" section).
-   * Under **Build and deployment**:
-     * **Source:** Select `Deploy from a branch`.
-     * **Branch:** Select `main` and folder `/ (root)`.
-     * Click **Save**.
-   * GitHub Pages will generate your live URL within 1–2 minutes:
-     `https://<your-username>.github.io/<your-repo-name>/`
-
----
 
 ## 7. Asset Licensing & Attribution
 
