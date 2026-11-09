@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none" role="img" aria-label="Living in Taiwan icon">
+  <rect width="48" height="48" rx="10" fill="#EAF3F2"/>
+  <!-- Home & Train hybrid motif -->
+  <path d="M12 23L24 13L36 23V35C36 36.1 35.1 37 34 37H14C12.9 37 12 36.1 12 35V23Z" fill="#206B64"/>
+  <!-- Door / Metro Window -->
+  <rect x="20" y="25" width="8" height="12" rx="2" fill="#FFFFFF"/>
+  <circle cx="24" cy="19" r="2.5" fill="#FCE5B8"/>
+</svg>

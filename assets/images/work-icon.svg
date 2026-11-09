@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none" role="img" aria-label="Part-time Jobs icon">
+  <rect width="48" height="48" rx="10" fill="#FFF6EA"/>
+  <!-- Briefcase & Official Permit Stamp Motif -->
+  <rect x="11" y="18" width="26" height="19" rx="3" fill="#D47334"/>
+  <path d="M19 18V14C19 12.9 19.9 12 21 12H27C28.1 12 29 12.9 29 14V18" stroke="#A84C18" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Lock/Badge highlight -->
+  <path d="M11 25H37" stroke="#FCECDA" stroke-width="2"/>
+  <rect x="22" y="23" width="4" height="5" rx="1" fill="#FFFFFF"/>
+</svg>

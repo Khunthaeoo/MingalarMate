@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none" role="img" aria-label="MingalarMate Logo">
+  <rect width="64" height="64" rx="14" fill="#C85A32"/>
+  <!-- Open Book Base -->
+  <path d="M14 44C19 40 28 40 32 43C36 40 45 40 50 44V23C45 19 36 19 32 22C28 19 19 19 14 23V44Z" fill="#FFF8F3" stroke="#FFF8F3" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Book Spine Center Line -->
+  <path d="M32 22V43" stroke="#C85A32" stroke-width="2" stroke-linecap="round"/>
+  <!-- Auspicious Star / Warm Compass Spark -->
+  <circle cx="32" cy="14" r="3.5" fill="#FCE5B8"/>
+  <path d="M32 7V10M32 18V21M25 14H28M36 14H39" stroke="#FCE5B8" stroke-width="2" stroke-linecap="round"/>
+</svg>

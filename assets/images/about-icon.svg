@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none" role="img" aria-label="About MingalarMate icon">
+  <rect width="48" height="48" rx="10" fill="#F4EFEA"/>
+  <!-- Two overlapping speech/community circles -->
+  <circle cx="21" cy="22" r="9" fill="#206B64"/>
+  <circle cx="29" cy="26" r="9" fill="#C85A32" opacity="0.9"/>
+  <!-- Heart or warm sparkle in overlap -->
+  <circle cx="25" cy="24" r="2.5" fill="#FFFFFF"/>
+</svg>
